@@ -1,0 +1,172 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    overflow-x: hidden;
+}
+
+.top{
+  font-size: 14px;
+  height: 34px;
+  
+  margin: 0 120px 0 120px;
+  width: 1240px;
+  color: #666;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.top1{
+   
+    cursor: pointer;
+   
+    padding-left: 20px;
+    
+    
+    
+}
+.Mainheader{
+    
+   display: flex;
+   margin-left: 150px;
+}
+.topline1{
+   
+    font-size: 14px;
+    cursor: pointer;
+    color: #666;
+    margin-top: 20px;
+    display: flex;
+    
+    align-items: center;
+}
+.topright{
+margin-left: 750px;
+    display: flex;
+    padding-left: 20px;
+}
+.tr1{
+    padding-left: 15px;
+}
+.logoimg{
+    width: 200px;
+    height: 50px;
+    cursor: pointer;
+    margin-left: 650px;
+    
+}
+.topline3{
+   
+    height: 25px;
+    width: 500px;
+    display: flex;
+    text-align: center;
+    margin-left: 530px;
+
+} 
+.customer{
+    margin-top: 30px;
+    font-size: 18px;
+    font-weight: 100;
+    cursor: pointer;
+    padding-left: 20px;
+    color: black;
+   
+}
+.topleft{
+   
+    display: flex;
+    
+} 
+.news{
+    font-size: 14px;
+    margin-left: 1000px;
+    color: #666;
+    cursor: pointer;
+    display: flex;
+}
+.contactus{
+    font-size: 14px;
+    padding-left: 20px;
+    color: #666;
+    cursor: pointer;
+    display: flex;
+}
+.lens{
+    padding-left: 20px;
+}
+#imgs img{
+    margin-top: 100px;
+   
+    width: 100%;
+    height: 609px; 
+}
+.consumer{
+    height: 200px;
+    width: 1400px;
+    margin-top: 100px;
+    font-size: 40px;
+    margin-left: 700px;
+}
+.consumerpanel{
+    width: 100%;
+    height: 183.988px;
+    background-color:#ccc;
+    display: flex;
+}
+.electronics{
+    width: 170.75px;
+    padding: 30px 10px 30px 10px;
+    margin-left: 30px;
+    cursor: pointer;
+}
+.consumerpaneling{
+    height: 683px;
+    width: 1519.2px;
+   background: color #f2f2f2; 
+}
+.firstpanel{
+    margin-left: 100px;
+    display: flex;
+}
+.secondpanel{
+    margin-left: 100px;
+    display: flex;
+}
+.electricals:hover img{
+    transform:scale(1.05);
+
+}
+.firstcontainer{
+    height: 75px;
+    display: flex;
+}.secondcontainer{
+height: 75px;
+display: flex;
+}
+.box{
+    height: 42px;
+    width: 390px;
+    cursor: pointer;
+    display: flex;
+    margin-left: 100px;
+    
+}
+.linksforusers{
+    height: 42px;
+    width: 434.825px;
+    font-size: 20px;
+    padding: 2px 5px 2px 5px;
+    margin-top: 20px;
+    text-align: center;
+    border:2px solid;
+
+   
+
+}
+.footer{
+    font-size: 12px;
+    margin-left:90px ;
+}
